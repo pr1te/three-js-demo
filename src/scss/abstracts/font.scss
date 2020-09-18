@@ -1,0 +1,20 @@
+/**
+ * Lato
+ *
+ * format: web open font format(woff)
+ * weight: black    900
+ *         bold     700
+ *         regular  400
+ *         light    300
+ *         thin     100
+ */
+@include font-face(Lato, "/assets/font/Lato-Black", 900, normal, woff);
+@include font-face(Lato, "/assets/font/Lato-BlackItalic", 900, italic, woff);
+@include font-face(Lato, "/assets/font/Lato-Bold", 700, normal, woff);
+@include font-face(Lato, "/assets/font/Lato-BoldItalic", 700, italic, woff);
+@include font-face(Lato, "/assets/font/Lato-Regular", 400, normal, woff);
+@include font-face(Lato, "/assets/font/Lato-Italic", 400, italic, woff);
+@include font-face(Lato, "/assets/font/Lato-Light", 300, normal, woff);
+@include font-face(Lato, "/assets/font/Lato-LightItalic", 300, italic, woff);
+@include font-face(Lato, "/assets/font/Lato-Thin", 100, normal, woff);
+@include font-face(Lato, "/assets/font/Lato-ThinItalic", 100, italic, woff);
